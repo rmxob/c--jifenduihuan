@@ -1,0 +1,11 @@
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\bin\Debug\BLL.dll
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\bin\Debug\BLL.pdb
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\bin\Debug\DAL.dll
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\bin\Debug\MODEL.dll
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\bin\Debug\DAL.pdb
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\bin\Debug\MODEL.pdb
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\obj\Debug\BLL.dll
+C:\Users\ZMZ\source\repos\积分兑换小程序\BLL\obj\Debug\BLL.pdb

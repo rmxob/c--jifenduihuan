@@ -1,0 +1,9 @@
+C:\Users\ZMZ\source\repos\积分兑换小程序\DAL\bin\Debug\DAL.dll
+C:\Users\ZMZ\source\repos\积分兑换小程序\DAL\bin\Debug\DAL.pdb
+C:\Users\ZMZ\source\repos\积分兑换小程序\DAL\bin\Debug\MODEL.dll
+C:\Users\ZMZ\source\repos\积分兑换小程序\DAL\bin\Debug\MODEL.pdb
+C:\Users\ZMZ\source\repos\积分兑换小程序\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ZMZ\source\repos\积分兑换小程序\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ZMZ\source\repos\积分兑换小程序\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ZMZ\source\repos\积分兑换小程序\DAL\obj\Debug\DAL.dll
+C:\Users\ZMZ\source\repos\积分兑换小程序\DAL\obj\Debug\DAL.pdb
